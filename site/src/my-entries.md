@@ -21,6 +21,14 @@ Within your Sample's box, you can see the information you recorded, as well as a
 
     Instead, keep the [Entry Types](entries/index.md) portion of this guide handy and consult it as necessary.
 
+By clicking the box that says "add media", you can add photos to support your written data. 
+
+Photos can add details about your soil sample and where it was collected. 
+
+You will also be able to set a featured image, which means the image that will first appear at the top of all pages for this sample. 
+
+You can find the "Set featured image" button to the top right corner of the form. 
+
 As you create additional entries and return to this page, you will notice that the boxes shown expand to illustrate which entries "contain," or are referenced by, which other entries. This can help you locate entries you are working with and visualize their relationships.
 
 !!! note ""
