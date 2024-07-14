@@ -20,9 +20,9 @@ TODO intro paragraph and how to begin to add
 - **Media Modification:** A description of other modifications you made to your media, such as adding honey, essential oils, cinnamon, or so on. Many students like to test the effect of such treatments on their isolates- that treatment would be recorded here. 
 - **Incubation Temperature** and **Duration:** The temperature (in Celsius) and the duration (in hours) that the plate was incubated. 
 - **Experimental Design:** Give details describing your experimental procedure. 
--**Results:** Here, you can provide a detailed description of your test results. 
-- **Ioslate form:** Specifcy the state of the isolate during the time of the test. 
-- **Eukaryotic inhibition:** Signify whether or not there was eukaryotic inhibition on the plate. This would be represented by an appearance of zones of inhibition following the test.
+- **Results:** Here, you can provide a detailed written description of your test results. 
+- **Isolate form:** Specify the state of the isolate during the time of the test. 
+- **Eukaryotic inhibition:** Signify whether or not there was eukaryotic inhibition on the plate. This would be represented by zones of inhibition following the test.
 
 ## Suggestions for "Additional Notes"
 
