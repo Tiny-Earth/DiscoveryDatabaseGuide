@@ -25,7 +25,7 @@ Library Antibiotic Activity Screens are a useful tool in the Tiny Earth research
 ## Required Information
 
 - **Date:** The date the plate was first created
-- **Sample:** The Environmental Sample that was used to create this plate. This field is automatically populated for you if you click "Add aa-screen-library" under an existing sample. If a teammate created the Environmental Sample entry, make sure that they have added you as a co-author so you may refer to it on your plates and isolates
+- **Sample:** This field is automatically populated for you if you click "Add aa-screen-library" under an existing sample. If it is not automatically populated, you can search through the dropdown box and select the sample that you are working on. If a teammate created the Environmental Sample entry, make sure that they have added you as a co-author so you may refer to it in your entries. Click the "add new" button only if you need to create a new Environmental Sample from scratch to link to this entry.
 - **Isolate Selection:** Click the "Add Isolate" button to link an isolate to this entry. See the "Isolate Selection Interface" selection below for more information
 
 ## Optional Information

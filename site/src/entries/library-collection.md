@@ -25,7 +25,7 @@ Library Collection plates are an intermediate step of the Tiny Earth research fl
 ## Required Information
 
 - **Date:** The date the plate was first created
-- **Sample:** The Environmental Sample that was used to create this plate. This field is automatically populated for you if you click "Add library-collection" under an existing sample. If a teammate created the Environmental Sample entry, make sure that they have added you as a co-author so you may refer to it on your plates and isolates
+- **Sample:** The Environmental Sample that was used to create this plate. This field is automatically populated for you if you click "Add library-collection" under an existing sample. If a teammate created the Environmental Sample entry, make sure that they have added you as a co-author so you may refer to it in your entries. Click the "add new" button only if you need to create a new Environmental Sample from scratch to link to this entry.
 - **Isolate Selection:** Click the "Add Isolate" button to link an isolate to this entry. See the "Isolate Selection Interface" selection below for more information
 
 ## Optional Information
