@@ -3,7 +3,7 @@
 To add your first entry, visit your [My Entries](https://discovery.tinyearth.wisc.edu/my-entries/) page.
 
 !!! note ""
-    ![Navigation bar showing the "My Entries" link](assets/Navigation Bar.png)
+    ![Navigation bar showing the [My Entries](https://discovery.tinyearth.wisc.edu/my-entries/) link](assets/Navigation Bar.png)
 
 !!! warning "Access Errors"
     If you receive an error saying you were "Redirected" or a message saying you are not in a classroom, the most likely cause is that your instructor has not added you to their classroom yet.
@@ -23,8 +23,6 @@ Click "+ Environmental Sample" inside the "Add New Entry" box.
 
 Whenever you create or edit your database entries, you'll be taken to a page with a form for recording your information.
 
-
-
 !!! note ""
     ![Form to enter data about an Environmental Sample](assets/Add New Environmental Sample - Empty.png)
 
@@ -37,7 +35,6 @@ To create an Environmental Sample entry, at minimum you will need to record:
 
 If your sample was collected from privately owned land, you will also need to attach a completed Private Donor Form.
 
-
 If you have other information about the conditions the sample was collected under, such as air temperature and humidity, record that as well.
 
 By clicking the box that says "add media", you can add photos to support your written data. 
@@ -47,7 +44,6 @@ Photos can add details about your soil sample and where it was collected.
 You will also be able to set a featured image, which means the image that will first appear at the top of all pages for this sample. 
 
 You can find the "Set featured image" button to the top right corner of the form. 
-
 
 You may also use the Additional Notes space to add any other information not covered by the form, attach images, describe procedures, and so on. Communicate with your instructor about what they would like to see represented there.
 

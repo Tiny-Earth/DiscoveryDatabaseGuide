@@ -2,7 +2,7 @@
 
 `TODO`
 
-To create an entry of this type, visit "My Entries," locate the Isolate that the extract was drawn from, and click "Add chemical-extract" under that Isolate.
+To create an entry of this type, visit [My Entries](https://discovery.tinyearth.wisc.edu/my-entries/), locate the Isolate that the extract was drawn from, and click "Add chemical-extract" under that Isolate.
 
 ## Use This Entry to Record
 

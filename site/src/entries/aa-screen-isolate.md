@@ -1,6 +1,6 @@
 # Antibiotic Activity Screen: Isolate
 
-Isolate Antibiotic Activity Screens are used to identify which of several tests an Isolate does or does not show antibiobic activity against. To create an entry of this type, visit "My Entries," locate the Isolate that was screened, and click "Add aa-screen-isolate" under that Isolate.
+Isolate Antibiotic Activity Screens are used to identify which of several tests an Isolate does or does not show antibiobic activity against. To create an entry of this type, visit [My Entries](https://discovery.tinyearth.wisc.edu/my-entries/), locate the Isolate that was screened, and click "Add aa-screen-isolate" under that Isolate.
 
 ## Use This Entry to Record
 

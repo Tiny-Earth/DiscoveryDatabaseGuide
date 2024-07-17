@@ -1,6 +1,6 @@
 # Streak Plate
 
-A Streak Plate is used to capture pure colonies of an Isolate that was discovered on a Serial Dilution Plate or Library Plate that contained colonies of possible several other microbes. To create an entry of this type, visit "My Entries," locate the Isolate that was streaked, and click "Add streak" under that Isolate.
+A Streak Plate is used to capture pure colonies of an Isolate that was discovered on a Serial Dilution Plate or Library Plate that contained colonies of possible several other microbes. To create an entry of this type, visit [My Entries](https://discovery.tinyearth.wisc.edu/my-entries/), locate the Isolate that was streaked, and click "Add streak" under that Isolate.
 
 ## Use This Entry to Record
 

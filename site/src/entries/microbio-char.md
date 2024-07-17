@@ -1,6 +1,6 @@
 # Microbiological Characterization
 
-Many Tiny Earth classes perform additional tests on Isolates before or after screening them for antibiotic activity, such as Gram staining. Use Microbiological Characterizations to record these. To create an entry of this type, visit "My Entries," locate the Isolate that was tested, and click "Add microbio-char" under that Isolate.
+Many Tiny Earth classes perform additional tests on Isolates before or after screening them for antibiotic activity, such as Gram staining. Use Microbiological Characterizations to record these. To create an entry of this type, visit [My Entries](https://discovery.tinyearth.wisc.edu/my-entries/), locate the Isolate that was tested, and click "Add microbio-char" under that Isolate.
 
 ## Use This Entry to Record
 

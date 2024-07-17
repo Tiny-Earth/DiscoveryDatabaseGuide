@@ -19,11 +19,4 @@ Throughout your Tiny Earth course, as you create additional entries and return t
 !!! note ""
     ![The same expanded Environmental Sample on the My Entries page, now with additional entries contained inside it](assets/Environmental Sample Box 2.png)
 
-!!! tip "Recommended: Review Entry Types Pages as Needed"
-    This guide is kept lightweight so that you can contribute to science faster.
-
-    You are not expected to be an expert on all thirteen database entry types before you begin -- And in a single class you almost certainly won't use them all!
-
-    Instead, keep the [Entry Types](entries/index.md) portion of this guide handy and consult it as necessary.
-
 So far, you've only added one Environmental Sample. Let's pause and plan what data you'll add throughout the rest of your research plan, and what order will be the most well-suited for you!

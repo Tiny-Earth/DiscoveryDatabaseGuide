@@ -1,6 +1,6 @@
 # Environmental Sample
 
-The very first step of the Tiny Earth research flow is to collect your Environmental Sample. To create an entry of this type, visit "My Entries," click "Add New Entry," then click "+ Environmental Sample."
+The very first step of the Tiny Earth research flow is to collect your Environmental Sample. To create an entry of this type, visit [My Entries](https://discovery.tinyearth.wisc.edu/my-entries/), click "Add New Entry," then click "+ Environmental Sample."
 
 ## Use This Entry to Record
 

@@ -1,6 +1,6 @@
 # Serial Dilution Plate
 
-Serial Dilution Plates are the first stage of the Tiny Earth research flow in which students identify Isolates of their own. To create an entry of this type, visit "My Entries," locate the Environmental Sample that was diluted to create the Serial Dilution Plate, and click "Add dilution" under that Sample.
+Serial Dilution Plates are the first stage of the Tiny Earth research flow in which students identify Isolates of their own. To create an entry of this type, visit [My Entries](https://discovery.tinyearth.wisc.edu/my-entries/), locate the Environmental Sample that was diluted to create the Serial Dilution Plate, and click "Add dilution" under that Sample.
 
 !!! tip "Recommended: Create Isolates First"
     This entry type refers to both Environmental Samples and Isolates. Because it records information about the position, morphology, and other details of an isolate on a plate, it may be simpler to [create those Isolates first](isolate.md), then return here to record information about them in relation to this plate.

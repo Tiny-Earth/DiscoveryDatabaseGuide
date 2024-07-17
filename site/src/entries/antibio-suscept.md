@@ -1,6 +1,6 @@
 # Antibiotic Susceptibility Test
 
-In some Tiny Earth courses, students will test the susceptibility of their Isolates to known antibiotic drugs, such as Penicillin. Record the results of these tests using an Antibiotic Susceptibility Test entry. To create an entry of this type, visit "My Entries," locate the Isolate that was tested, and click "Add antibio-suscept" under that Isolate.
+In some Tiny Earth courses, students will test the susceptibility of their Isolates to known antibiotic drugs, such as Penicillin. Record the results of these tests using an Antibiotic Susceptibility Test entry. To create an entry of this type, visit [My Entries](https://discovery.tinyearth.wisc.edu/my-entries/), locate the Isolate that was tested, and click "Add antibio-suscept" under that Isolate.
 
 ## Use This Entry to Record
 

@@ -2,7 +2,7 @@
 
 `TODO`
 
-To create an entry of this type, visit "My Entries," locate the Chemical Extract that the screened, and click "Add aa-screen-extract" under that Chemical Extract.
+To create an entry of this type, visit [My Entries](https://discovery.tinyearth.wisc.edu/my-entries/), locate the Chemical Extract that the screened, and click "Add aa-screen-extract" under that Chemical Extract.
 
 ## Use This Entry to Record
 

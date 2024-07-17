@@ -1,6 +1,6 @@
 # Eukaryotic Test
 
-Similar to screening against ESKAPE bacteria, some Tiny Earth students also screen their Isolates against known eukaryotic organisms, such as slime mold or oomycete. Record these using Eukaryotic Tests. To create an entry of this type, visit "My Entries," locate the Isolate that was tested, and click "Add eukaryotic" under that Isolate.
+Similar to screening against ESKAPE bacteria, some Tiny Earth students also screen their Isolates against known eukaryotic organisms, such as slime mold or oomycete. Record these using Eukaryotic Tests. To create an entry of this type, visit [My Entries](https://discovery.tinyearth.wisc.edu/my-entries/), locate the Isolate that was tested, and click "Add eukaryotic" under that Isolate.
 
 ## Use This Entry to Record
 

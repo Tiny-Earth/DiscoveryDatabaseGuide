@@ -2,7 +2,7 @@
 
 For most Tiny Earth research and courses, the Isolate is the most important entry type. Isolate entries themselves are minimal--just a name, date, and the sample it came from. All other information about an Isolate is tracked in other entries that reference it, such as plates and screens where the Isolate occurred.
 
-To create an entry of this type, visit "My Entries," locate the Environmental Sample that was the origin of the Isolate, and click "Add isolate" under that Sample.
+To create an entry of this type, visit [My Entries](https://discovery.tinyearth.wisc.edu/my-entries/), locate the Environmental Sample that was the origin of the Isolate, and click "Add isolate" under that Sample.
 
 ## Use This Entry to Record
 

@@ -1,6 +1,6 @@
 # Antibiotic Activity Screen: Library
 
-Library Antibiotic Activity Screens are a useful tool in the Tiny Earth research flow for identifying which of several isolates shows antibiotic activity. To create an entry of this type, visit "My Entries," locate the Environmental Sample that was the origin of the Library Antibiotic Activity Screen plate, and click "Add library-collection" under that Sample.
+Library Antibiotic Activity Screens are a useful tool in the Tiny Earth research flow for identifying which of several isolates shows antibiotic activity. To create an entry of this type, visit [My Entries](https://discovery.tinyearth.wisc.edu/my-entries/), locate the Environmental Sample that was the origin of the Library Antibiotic Activity Screen plate, and click "Add library-collection" under that Sample.
 
 !!! tip "Recommended: Create Isolates First"
     This entry type refers to both Environmental Samples and Isolates. Because it records information about the position, morphology, and other details of an isolate on a plate, it may be simpler to [create those Isolates first](isolate.md), then return here to record information about them in relation to this plate.

@@ -1,6 +1,6 @@
 # 16S rRNA Gene Analysis
 
-A highlight of many Tiny Earth courses is performing 16S rRNA Gene Analyses to identify the Genus of one's Isolates. To create an entry of this type, visit "My Entries," locate the Isolate that was analyzed, and click "Add rrna-analysis" under that Isolate.
+A highlight of many Tiny Earth courses is performing 16S rRNA Gene Analyses to identify the Genus of one's Isolates. To create an entry of this type, visit [My Entries](https://discovery.tinyearth.wisc.edu/my-entries/), locate the Isolate that was analyzed, and click "Add rrna-analysis" under that Isolate.
 
 ## Use This Entry to Record
 
