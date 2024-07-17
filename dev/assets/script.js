@@ -6,6 +6,20 @@ window.addEventListener("load", function(){
         }
     }
 
+    // Render yuml code blocks as images
+    for (const yuml of this.document.querySelectorAll("pre > code.language-yuml")){
+        console.log(yuml.innerText);
+        const pre = yuml.parentNode;
+        const alt = pre.nextSibling;
+        const src = "https://yuml.me/diagram/plain/class/" + encodeURIComponent(yuml.innerText.replaceAll("\n", ",")) + ".svg";
+        const img = document.createElement("img");
+        img.setAttribute("src", src);
+        img.setAttribute("alt", alt.innerText);
+        pre.parentNode.insertBefore(img, pre);
+        pre.parentNode.removeChild(alt);
+        pre.parentNode.removeChild(pre);
+    }
+
     // Display alt text as figure captions
     let fig_no = 1;
     for (const img of document.querySelectorAll("img[alt]")){
