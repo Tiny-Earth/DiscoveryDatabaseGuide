@@ -14,6 +14,11 @@ Within your Sample's box, you can see the information you recorded, as well as a
 - Create a duplicate of the entry for when you need a new entry similar to an old one
 - And add new, different kinds of entries that reference this entry, such as Serial Dilution Plates and Isolates. More information about the various types of database entries are described in the [Entry Types](entries/index.md) section of this guide
 
+Throughout your Tiny Earth course, as you create additional entries and return to this page, you will notice that the boxes shown expand to illustrate which entries "contain," or are referenced by, which other entries. This can help you locate entries you are working with and visualize their relationships.
+
+!!! note ""
+    ![The same expanded Environmental Sample on the My Entries page, now with additional entries contained inside it](assets/Environmental Sample Box 2.png)
+
 !!! tip "Recommended: Review Entry Types Pages as Needed"
     This guide is kept lightweight so that you can contribute to science faster.
 
@@ -21,9 +26,4 @@ Within your Sample's box, you can see the information you recorded, as well as a
 
     Instead, keep the [Entry Types](entries/index.md) portion of this guide handy and consult it as necessary.
 
-As you create additional entries and return to this page, you will notice that the boxes shown expand to illustrate which entries "contain," or are referenced by, which other entries. This can help you locate entries you are working with and visualize their relationships.
-
-!!! note ""
-    ![The same expanded Environmental Sample on the My Entries page, now with additional entries contained inside it](assets/Environmental Sample Box 2.png)
-
-You may have also noticed several green "Status : Saved" tags on each of your entries. So, next let's talk about the different statuses entries can have and how they fit into the flow of your Tiny Earth course!
+So far, you've only added one Environmental Sample. Let's pause and plan what data you'll add throughout the rest of your research plan, and what order will be the most well-suited for you!
