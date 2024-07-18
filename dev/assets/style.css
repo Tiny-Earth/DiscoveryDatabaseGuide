@@ -49,3 +49,7 @@ img {
   background: #eee;
   border-radius: 4px;
 }
+
+/* Custom Admonitions */
+.admonition.is-info > .admonition-header:empty::before {content: "\f03e"}
+.admonition.is-info > .admonition-header:empty::after {content: ""}
