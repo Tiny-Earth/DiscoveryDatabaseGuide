@@ -1,4 +1,4 @@
-# Pause and Plan
+# Pause and Plan: Your Research, Your Way
 
 The Discovery Database has thirteen [Entry Types](entries/index.md) for you to choose from to represent your own Tiny Earth research flow. It is very rare for any one person to use all thirteen for a single research project.
 
