@@ -43,3 +43,9 @@ table {
     font-size: 10pt;
   }
 }
+
+/* Make sure images with transparent background have a consistent background color for accessibility */
+img {
+  background: #eee;
+  border-radius: 4px;
+}
