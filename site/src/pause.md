@@ -1,8 +1,12 @@
 # Pause and Plan: Your Research, Your Way
 
-The Discovery Database has thirteen [Entry Types](entries/index.md) for you to choose from to represent your own Tiny Earth research flow. It is very rare for any one person to use all thirteen for a single research project.
+Take a moment to pause and plan your own research flow. Consult with your instructor, your teammates, your textbook, and your own understanding of course content. Then, consider which database entries you will--and won't--need to record to accurately depict your research and possible findings.
 
-However, for almost all research flows, the easiest way to begin in the Discovery Database is one of two options.
+The Discovery Database has thirteen [Entry Types](entries/index.md) for you to choose from.
+
+However, it is very rare for any one person to use all of the entry types for a single research project.
+
+And for almost all research projects, the easiest way to plan to use the Discovery Database follows one of two options, described below.
 
 ---
 ## Option 1 - Sample, Isolate, then Dilution
@@ -159,7 +163,7 @@ The second option more closely matches the Tiny Earth research flow, but require
     ``` The illustration now also includes various additional entries: a library screen, then a streak plate, isolate screen, characterization, and 16S rRNA analysis of one isolate in that library
 
 ---
-## TODO
+## What's Next?
 
 !!! tip "Recommended: Review Entry Types Pages as Needed"
     This guide is kept lightweight so that you can contribute to science faster.
@@ -168,6 +172,4 @@ The second option more closely matches the Tiny Earth research flow, but require
 
     Instead, keep the [Entry Types](entries/index.md) portion of this guide handy and consult it as necessary.
 
-`TODO paragraph telling them to plan ahead their research flow and possible database entries with their instructor`
-
-As you've been working, you may have also noticed several green "Status : Saved" tags on each of your entries. So, next let's talk about the different statuses entries can have and how they fit into the flow of your Tiny Earth course!
+As you've been exploring the Discovery Database, you may have also noticed several green "Status : Saved" tags on some of your entries. So, next let's talk about the different statuses entries can have and how they fit into the flow of your Tiny Earth course!
