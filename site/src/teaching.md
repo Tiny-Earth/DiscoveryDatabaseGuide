@@ -94,4 +94,18 @@ Finally, the concept of *not* entering every [Entry Type](entries/index.md) will
 !!! note ""
     ![A graphic showing students which Entry Types I want them to skip](assets/Which Entries Do I Do.png)
 
+## Lab Safety
+
+Depending on your lab safety protocols, students might not be permitted to bring their laptops into the lab. In such a case, the steps for entering database entries might look like this:
+
+1. Students conduct the Tiny Earth research flow in their labs
+2. Students record in their paper lab notebooks their research processes and findings
+3. Students might also take photos of their plates using their phones or a course camera
+4. Outside of lab, students use their laptops to transfer findings from their paper notes to the database
+
+To help students engage with their research in their lab time from a data-oriented perspective and take accurate notes, you may find it helpful to share a handout like the one below. You can create your own version of this table, and tables for other entry types, by [editing a copy in Google Docs](https://docs.google.com/document/d/1hwbOLaxoADL2v6JsoLlcl36cZ0fvXhYxhpnKanEUFaM/copy)
+
+!!! ""
+    ![An example table that could be printed and handed to students for recording Serial Dilution Plate information in Lab](assets/Paper Serial Dilution Plate.png)
+
 Now that you've instructed your students how to begin, next you'll need to know how to view the entries they record!
