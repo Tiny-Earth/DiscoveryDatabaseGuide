@@ -41,8 +41,9 @@ window.addEventListener("load", function(){
         span.innerText = img.getAttribute("alt");
     }
 
-    // Make the edit link show the plain view so it is quicker to add line-level comments
+    // Make the edit link show the plain edit view so it is quicker to make line-level edits
     document.querySelector('a[title^="Edit"]').href += "?plain=1";
+    document.querySelector('a[title^="Edit"]').href = document.querySelector('a[title^="Edit"]').href.replace("/blob/", "/edit/");
 
     // Reword "search docs"
     document.getElementById("documenter-search-query").innerText = "Search";
