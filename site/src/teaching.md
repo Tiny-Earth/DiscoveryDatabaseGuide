@@ -105,7 +105,7 @@ Depending on your lab safety protocols, students might not be permitted to bring
 
 To help students engage with their research in their lab time from a data-oriented perspective and take accurate notes, you may find it helpful to share a handout like the one below. You can create your own version of this table, and tables for other entry types, by [editing a copy in Google Docs](https://docs.google.com/document/d/1hwbOLaxoADL2v6JsoLlcl36cZ0fvXhYxhpnKanEUFaM/copy)
 
-!!! ""
+!!! note ""
     ![An example table that could be printed and handed to students for recording Serial Dilution Plate information in Lab](assets/Paper Serial Dilution Plate.png)
 
 Now that you've instructed your students how to begin, next you'll need to know how to view the entries they record!
