@@ -3,7 +3,7 @@
 To add your first entry, visit your [My Entries](https://discovery.tinyearth.wisc.edu/my-entries/) page.
 
 !!! note ""
-    ![Navigation bar showing the [My Entries](https://discovery.tinyearth.wisc.edu/my-entries/) link](assets/Navigation Bar.png)
+    ![Navigation bar showing the My Entries link](assets/Navigation Bar.png)
 
 !!! warning "Access Errors"
     If you receive an error saying you were "Redirected" or a message saying you are not in a classroom, the most likely cause is that your instructor has not added you to their classroom yet.
