@@ -26,9 +26,9 @@ If you do not already have an account, but were given an Instructor Invitation C
 
 Otherwise, please reach out to <tinyearth@wid.wisc.edu> to receive a code and setup instructions.
 
-!!! warning "New Account? Wait for Test Classroom Access!"
-    After instructor accounts are created, they are manually added to a test classroom in the "TEPI University" institution, allowing instructors to experiment with database features.
+!!! warning "What access to a test classroom?"
+    After instructor accounts are created, they can be manually added to a test classroom in the "TEPI University" institution by messaging <tinyearth@wid.wisc.edu>, allowing instructors to experiment with database features.
 
-    If you have just created an instructor account, have patience as we add you to the test classroom. We will notify you when complete, and you may then continue to the next step of the guide, [adding your first entry](first-entry.md)
+    Once you are added to the test classroom, we will notify you, and you may then continue to the next step of the guide, [adding your first entry](first-entry.md)
 
 If you have problems or questions, reach out to <tinyearth@wid.wisc.edu>
