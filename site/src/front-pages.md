@@ -9,9 +9,9 @@ An entry's Front Page is very similar to what is shown on your [My Entries](http
 
 However, a Front Page shows *more* information. Your [My Entries](https://discovery.tinyearth.wisc.edu/my-entries/) page only shows entries that you are an author or coauthor on, while a Front Page shows all information about an entry and all entries that reference it -- regardless of who the author is!
 
-More importantly, your Front Pages show what the information you've recorded will eventually look like to the *outside world*!
+More importantly, your Front Pages show what the information you've recorded will eventually look like to the *other students* searching the [Discovery Database](https://discovery.tinyearth.wisc.edu/)!
 
-Once your entries have been finalized by your instructor and their Front Pages have been exported to the Tiny Earth Public Database by the Tiny Earth team, they'll be viewable by future researchers for years to come! Plus, it'll be where you can stay up-to-date on how other researchers are building on what you contributed to the Discovery Database in this class!
+And once your entries have been finalized by your instructor, your entries' data will be exported to the Tiny Earth Public Database by the Tiny Earth team, where their data will be viewable by future researchers for years to come! Plus, it'll be where you can stay up-to-date on how other researchers are building on what you contributed to the Discovery Database in this class!
 
 If you're a student -- congrats, you've reached the end of the guide! Return here as often as you need for reference, check out the [Entry Types](entries/index.md) pages as needed, and we hope you have a great time! Thank you for contributing to science!
 
