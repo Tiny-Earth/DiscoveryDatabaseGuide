@@ -4,6 +4,17 @@ Now that you know how to add students to your course, it is time to instruct the
 
 On this page, we provide some practical advice for including the database in your course plans, as well as example activity prompts and illustrations that you can adapt for your own needs.
 
+## Introduce the Database
+
+Before assigning students to work in the [Discovery Database](https://discovery.tinyearth.wisc.edu/), veteran TEPIs have had success first introducing the database and this guide in class.
+
+From our veteran TEPIs:
+
+1. Project the guide in class, and always navigate to the [Discovery Database](https://discovery.tinyearth.wisc.edu/) through links in the guide, not by navigating to it directly.
+2. Work a small example in class together, then give students time to explore the guide and the database on their own. Note: You may need to direct them to create their accounts (below) ahead of time.
+
+Based on TEPI feedback, once students have been introduced to the guide and database this way in class, they are more likely to use the guide on their own and encounter fewer database problems.
+
 ## Creating Accounts
 
 Before students can enter data, they will need to create accounts and be added to the classroom.
