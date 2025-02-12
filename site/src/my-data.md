@@ -14,7 +14,7 @@ To view your "My Data" page, click the "My Data" link in the navigation bar at t
 
 By default, your "My Data" table shows a small amount of general information about all of your entries, regardless of what type of entry they are. This can be useful when you need to confirm that your authorshop/coauthorship across all your entries is correct.
 
-You can change the "Change View" dropdown to change what entry types should be the focus of your search.
+You can change the "Change View" dropdown and click the "Change View" button to change what entry types should be the focus of your search.
 
 !!! note ""
     ![A "My Data" table with one entry](assets/My Data.png)
