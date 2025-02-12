@@ -5,7 +5,7 @@ You may find a need for deleting several student entries in bulk, such as cleani
 Deleting student entries follows a similar process to finalizing them:
 
 1. View your student entries, as described in the [View Student Entries](viewing.md) page of this guide
-2. Select the "delete-entries" view with the "Change View" dropdown
+2. Select the "delete-entries" view by changing the "Change View" dropdown and clicking the "Change View" button 
 3. Select the entries you wish to delete by checking the box next to them, then click "Delete Displayed Selected Entries"
 4. A summary of what entries were deleted will be shown at the top of the page
 
