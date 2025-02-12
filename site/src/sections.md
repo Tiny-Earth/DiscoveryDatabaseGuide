@@ -10,4 +10,4 @@ To do this:
     - Set the "Main Classroom" to the main classroom that the section belongs to
     - Include the section number in the slug, such as "uwmadison-plpath-145-001-sp23"
 
-When you add TAs and students, you may do so at the whole-course level or to individual sections. TAs and students will only be able to interact with information for the course or sections they are added to.
+When you add TAs/co-instructors and students, you may do so at the whole-course level or to individual sections. TAs/co-instructors and students will only be able to interact with information for the course or sections they are added to.
