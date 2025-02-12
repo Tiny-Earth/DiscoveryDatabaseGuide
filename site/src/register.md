@@ -27,6 +27,8 @@ If you do not already have an account, but were given an Instructor Invitation C
 If you need help, have problems, or have questions, please reach out to <tinyearth@wid.wisc.edu>.
 
 !!! warning "Want access to a test classroom?"
-    After instructor accounts are created, they can be manually added to a test classroom in the "TEPI University" institution by messaging <tinyearth@wid.wisc.edu>, allowing instructors to experiment with database features.
+    If you want a test classroom where you and your TAs/co-instructors can experiment with database features, follow these steps:
 
-    Once you are added to the test classroom, we will notify you, and you may then continue to the next step of the guide, [adding your first entry](first-entry.md)
+    1. Once you've created your account, [add "TEPI University" as one of your institutions](instructor-setup.md)
+    2. Then [create a class](first-classroom.md), setting "TEPI University" as the class's institution. All data from "TEPI University" is considered fake
+    3. Once you've made your test classroom, you can use it to, for example, practice [adding entries](first-entry.md), [adding TAs/co-instructors](assistants.md), [adding students](students.md), and more!
