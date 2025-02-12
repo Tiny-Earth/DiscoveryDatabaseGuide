@@ -47,7 +47,7 @@ If your students will be working in groups, you may also want to assign:
 
 - [Coauthors](coauthors.md)
 
-And to provide them more detailed information about Environmental Sapmles, you may also want to assign:
+And to provide them more detailed information about Environmental Samples, you may also want to assign:
 
 - [Entry Types / Environmental Sample](entries/sample.md)
 
