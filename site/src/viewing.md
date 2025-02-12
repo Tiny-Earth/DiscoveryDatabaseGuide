@@ -10,7 +10,7 @@ To view your students' entries:
 Depending on your task, you may find it useful to:
 
 - View an individual student or group's work by selecting them from the "Author(s)" dropdown
-- View all entries of a certain type by selecting the type from the "Change View" dropdown
+- View all entries of a certain type by changing the "Change View" dropdown and clicking the "Change View" button 
 - Quickly find an entry from its nickname by using the "Nickname" dropdown
 - Change which information is shown or hidden with the "Column visibility" dropdown
 - See an entry's Front Page by clicking its ID
