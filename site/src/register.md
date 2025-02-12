@@ -22,7 +22,7 @@ Instructors accounts have higher permissions, and are either (a) created as a st
 
 If you already have an account that has student access but not instructor access, such as from a webinar or training, please reach out to <tinyearth@wid.wisc.edu> to have your account promoted.
 
-If you do not already have an account, but were given an Instructor Invitation Code, please follow the instructions above using your instructor Invitation Code. Instructor Invitation Codes can be found on the TEPI website -- just click "Tiny Earth Database" on the TEPI homepage.
+If you do not already have an account, but were given an Instructor Invitation Code, please follow the instructions above using your Instructor Invitation Code. Instructor Invitation Codes can be found on the TEPI website -- just click "Tiny Earth Database" on the TEPI homepage.
 
 If you need help, have problems, or have questions, please reach out to <tinyearth@wid.wisc.edu>.
 
