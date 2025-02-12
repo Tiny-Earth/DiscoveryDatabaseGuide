@@ -8,7 +8,7 @@ Once student work in your class or on an entry is complete, and you have reviewe
 To finalize entries:
 
 1. View your student entries, as described in the [View Student Entries](viewing.md) page of this guide
-2. Select the "finalize" view with the "Change View" dropdown
+2. Select the "finalize" view by changing the "Change View" dropdown and clicking the "Change View" button 
 3. Select the entries you wish to finalize by checking the box next to them, then click "Finalize Displayed Selected Entries"
 4. A summary of what entries were finalized will be shown at the top of the page
 
