@@ -1,12 +1,10 @@
 # Chemical Extraction
 
-`TODO`
-
-To create an entry of this type, visit [My Entries](https://discovery.tinyearth.wisc.edu/my-entries/), locate the Isolate that the extract was drawn from, and click "Add chemical-extract" under that Isolate.
+A pure microbial culture produces a vast number of metabolites, so another step in the study of a potentially new antibiotic is to extract the active compound separate from other chemical "contaminants." To create an entry of this type, visit [My Entries](https://discovery.tinyearth.wisc.edu/my-entries/), locate the Isolate that the extract was drawn from, and click "Add chemical-extract" under that Isolate.
 
 ## Use This Entry to Record
 
-- `TODO`
+- Experimental design used to produce a chemical extract from an isolate
 
 ## Required Information
 
