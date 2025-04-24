@@ -1,12 +1,10 @@
 # Antibiotic Activity Screen: Extract
 
-`TODO`
-
-To create an entry of this type, visit [My Entries](https://discovery.tinyearth.wisc.edu/my-entries/), locate the Chemical Extract that the screened, and click "Add aa-screen-extract" under that Chemical Extract.
+Similar to Isolate Antibiotic Activity Screens, Extract Antibiotic Activity Screens are used to identify which of several tests an Extract does or does not show antibiobic activity against. To create an entry of this type, visit [My Entries](https://discovery.tinyearth.wisc.edu/my-entries/), locate the Chemical Extract that the screened, and click "Add aa-screen-extract" under that Chemical Extract.
 
 ## Use This Entry to Record
 
-- `TODO`
+- Antibiotic activity screen results for a single Extract against several ESKAPEs
 
 ## Required Information
 
