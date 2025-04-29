@@ -6,11 +6,11 @@ TAs and co-instructors have the same permissions as lead instructors, except the
 
 To add TAs/co-instructors:
 
-1. Instruct your TAs/co-instructors to create database accounts, following the same process and using the same Invitation Code as your students. We recommend you share the [Getting Started](register.md) page of this guide with your TAs, as it explains the process to them. If you do not have a valid Invitation Code to give your TAs/co-instructors, please contact <tinyearth@wid.wisc.edu>
-2. Once your TAs/co-instructors have made their accounts, visit [Manage Classes](https://discovery.tinyearth.wisc.edu/classroom-management/)
-3. If you have multiple classes or sections, select the class/section you want to add TAs/co-instructors to from the dropdown
-4. Under "Add to Classroom," enter the email addresses your TAs/co-instructors used to create their accounts, separated by commas
-5. Click "Add as Assistants"
+1. Instruct your TAs/co-instructors to create database accounts, following the same process and using the same Invitation Code as your students. We recommend you share the [Getting Started](register.md) page of this guide with your TAs, as it explains the process to them. If you do not have a valid Invitation Code to give your TAs/co-instructors, Invitation Codes can be found on the TEPI website -- just click "Tiny Earth Database" on the TEPI homepage.
+2. Once your TAs/co-instructors have made their accounts, visit [Manage Classes](https://discovery.tinyearth.wisc.edu/classroom-management/).
+3. If you have multiple classes or sections, select the class/section you want to add TAs/co-instructors to from the dropdown.
+4. Under "Add to Classroom," enter the email addresses your TAs/co-instructors used to create their accounts, separated by commas or spaces.
+5. Click "Add as Assistants".
 
 !!! note ""
     ![Form to add students or TAs/co-instructors to your classroom](assets/Add to Classroom.png)
