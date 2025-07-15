@@ -17,9 +17,6 @@ The very first step of the Tiny Earth research flow is to collect your Environme
     The location `43.0730849 N, 89.4086011 W` is the location of Tiny Earth HQ. However, it would be entered as `43.0730849,-89.4086011` into the database, with the second number negative and no `N` or `W`. This is because Soutern hemispheres (the first number, or Latitude) and Western hemispheres (the second number, or Longitude) are represented in our system by negatives, not by a `S` or `W` label.
 - **Sample Type:** The type of environmental sample, such soil, water, or so on. In almost all cases you will leave this as "Soil" by default, but your instructor may have you change this if you are working with other kinds of samples.
 - **Private Donor Form:** If your sample was collected on privately owned land, you must show that you had permission to collect the sample. To do this, upload a copy of the signed Private Donor Form to your entry. If your sample was *not* collected on privately owned land, then skip this field
-
-## Optional Information
-
 - **Site Description:** Provide details of the soil, weather, and other conditions affecting the tested site. See your professor for clarification on what details should be included.
 - **Air Temperature** and **Air Humidity:** The temperature (in Celsius) and the humidity of the weather at the time your sample was collected. In most cases, students use their phones to record these weather conditions while collecting their samples
 - **Sample Temperature** and **Sample pH:** The temperature (in Celsius) of the sample at the time it was collected and the pH of the sample measured in the lab. For best precision, bring a thermometer with you as you collect your sample, and follow your instructor's instructions to test the pH of the sample in your course's lab
