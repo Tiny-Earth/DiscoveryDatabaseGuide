@@ -28,7 +28,6 @@ Serial Dilution Plates are the first stage of the Tiny Earth research flow in wh
 
 - **Date:** The date the plate was first created
 - **Sample:** This field is automatically populated for you if you click "Add dilution" under an existing sample. If it is not automatically populated, you can search through the dropdown box and select the sample that you are working on. If a teammate created the Environmental Sample entry, make sure that they have added you as a co-author so you may refer to it in your entries. Click the "add new" button only if you need to create a new Environmental Sample from scratch to link to this entry.
-- **Isolate Selection:** Click the "Add Isolate" button to link an isolate to this entry. See the "Isolate Selection Interface" selection below for more information
 
 ## Optional Information
 
@@ -41,6 +40,7 @@ Serial Dilution Plates are the first stage of the Tiny Earth research flow in wh
 - **Incubation Temperature** and **Duration**: The temperature (in Celsius) and the duration (in Hours) that the plate was incubated
 - **Dilution Buffer:** The sterile buffered used during the serial dilution process
 - **CFU/g:** Colony Forming Units, which can be [calculated following the method in this video](https://www.youtube.com/watch?v=s0rmg8tOD-A&t=340s). This field has two input boxes, one labeled "Colonies" and one labeled "10x^." If, for example, the CFU/g is 8000, enter "8" under "Colonies" and "3" under "x10^."
+- **Isolate Selection:** Click the "Add Isolate" button to link an isolate to this entry. See the "Isolate Selection Interface" selection below for more information
 
 ## Isolate Selection Interface
 
