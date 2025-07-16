@@ -42,7 +42,7 @@ Serial Dilution Plates are the first stage of the Tiny Earth research flow in wh
 - **Dilution Buffer:** The sterile buffered used during the serial dilution process
 - **CFU/g:** Colony Forming Units, which can be [calculated following the method in this video](https://www.youtube.com/watch?v=s0rmg8tOD-A&t=340s). This field has two input boxes, one labeled "Colonies" and one labeled "10x^." If, for example, the CFU/g is 8000, enter "8" under "Colonies" and "3" under "x10^."
 - **Isolate Selection:** Click the "Add Isolate" button to link an isolate to this entry. See the "Isolate Selection Interface" selection below for more information
-  
+
 ## Isolate Selection Interface
 
 After completing the rest of the fields for your plate, it is time to link the plate's entry to the Isolates you are tracking on it. For simplicity, it is recommended that you [create entries for these Isolates separately](isolate.md) before linking them here.
