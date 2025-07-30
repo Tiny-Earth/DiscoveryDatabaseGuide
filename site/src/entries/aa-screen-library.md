@@ -27,11 +27,12 @@ Library Antibiotic Activity Screens are a useful tool in the Tiny Earth research
 - **Date:** The date the plate was first created
 - **Sample:** This field is automatically populated for you if you click "Add aa-screen-library" under an existing sample. If it is not automatically populated, you can search through the dropdown box and select the sample that you are working on. If a teammate created the Environmental Sample entry, make sure that they have added you as a co-author so you may refer to it in your entries. Click the "add new" button only if you need to create a new Environmental Sample from scratch to link to this entry.
 - **Isolate Selection:** Click the "Add Isolate" button to link an isolate to this entry. See the "Isolate Selection Interface" selection below for more information
-
+- **Media Used:** The base media used to cultivate the plate.
+  
 ## Optional Information
 
 - **Nickname:** When you have several Library Antibiotic Activity Screen plates, it may be useful to give them short names to help distinguish them. Please follow your instructor's guidelines on how to name entries meaningfully
-- **Media Used** and **Concentration of Media Used:** The base media used to cultivate the plate and its concentration. For example, commonly when the Media Used is TSA, the Concentration is 10%. Confirm with your instructor the concentration of your media
+- **Concentration of Media Used:** The concentration of the base media used to cultivate the plate. For example, commonly when the Media Used is TSA, the Concentration is 10%. Confirm with your instructor the concentration of your media
 - **Additives** and **Concentration of Additives:** Additives to the media, such as antifungals, and their concentration (in ug/mL). Confirm with your instructor the additives to your media and their concentration
 - **Media Modification:** A description of other modifications you made to your media, such as adding honey, essential oils, cinnamon, or so on. Many students like to test the effect of such treatments on their isolates -- that treatment would be recorded here
 - **Incubation Temperature** and **Duration**: The temperature (in Celsius) and the duration (in Hours) that the plate was incubated
