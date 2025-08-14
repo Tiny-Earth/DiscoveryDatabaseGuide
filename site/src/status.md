@@ -16,13 +16,20 @@ Once an entry's required information has been filled in and its "Save" button cl
 
 ## Finalized
 
-Once an instructor has reviewed an entry for completeness and accuracy, they may finalize it, a process described in the "Instructor Guide" section of this guide. These entries get a blue "Finalized" status tag, which marks them as ready for Tiny Earth to export their information into the Tiny Earth Public Database.
+Once an instructor has reviewed an entry for completeness and accuracy, they may finalize it, a process described in the "Instructor Guide" section of this guide. These entries get a blue "Finalized" status tag, which marks them as ready for Tiny Earth to export their information into the [Tiny Earth Public Database](https://publicdata.tinyearth.wisc.edu/).
 
 !!! note ""
     ![The Finalized status tag](assets/Finalized.png)
 
 !!! warning "Finalized Entries Cannot be Edited"
     Entries that have been given the blue "Finalized" status tag *cannot* be edited further by students or instructors.
+
+!!! note ""
+    ```yuml
+    [Student enters data] -> [Instructor finalizes] -> [Tiny Earth posts to Public Database]
+    ``` Students enter data into the Discovery Database. Instructors review and finalize that data. And Tiny Earth posts finalized data to the Public Database.
+
+    Explore all previously finalized Tiny Earth student data on the [Tiny Earth Public Database](https://publicdata.tinyearth.wisc.edu/)!
 
 ## When will my Entries be Finalized?
 

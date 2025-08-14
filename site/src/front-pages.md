@@ -11,7 +11,7 @@ However, a Front Page shows *more* information. Your [My Entries](https://discov
 
 More importantly, your Front Pages show what the information you've recorded will eventually look like to the *other students* searching the [Discovery Database](https://discovery.tinyearth.wisc.edu/)!
 
-And once your entries have been finalized by your instructor, your entries' data will be exported to the Tiny Earth Public Database by the Tiny Earth team, where their data will be viewable by future researchers for years to come! Plus, it'll be where you can stay up-to-date on how other researchers are building on what you contributed to the Discovery Database in this class!
+And once your entries have been finalized by your instructor, your entries' data will be exported to the [Tiny Earth Public Database](https://publicdata.tinyearth.wisc.edu/) by the Tiny Earth team, where their data will be viewable by future researchers for years to come! Plus, it'll be where you can stay up-to-date on how other researchers are building on what you contributed to the Discovery Database in this class!
 
 If you're a student -- congrats, you've reached the end of the guide! Return here as often as you need for reference, check out the [Entry Types](entries/index.md) pages as needed, and we hope you have a great time! Thank you for contributing to science!
 

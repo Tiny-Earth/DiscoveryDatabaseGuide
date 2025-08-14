@@ -46,6 +46,41 @@ To help your students at this step, we recommend assigning them the following pa
 
     If you do not have a valid Invitation Code to give your students, please contact <tinyearth@wid.wisc.edu>.
 
+## Exploring
+
+At the beginning or throughout the semester, you may want to have your students explore previous Tiny Earth data, such as:
+
+- Data on the [Discovery Database](https://discovery.tinyearth.wisc.edu/) from your previous semesters
+- Data on the [Tiny Earth Public Database](https://publicdata.tinyearth.wisc.edu/) from other students
+
+!!! details "Click to See Example: Explore Tiny Earth Data"
+    You may share the following text with your students or adapt it to your needs:
+
+    > **Activity:** Let's explore previous students' Tiny Earth data!
+    >
+    > First, follow these steps to familiarize yourself with the [Tiny Earth Public Database](https://publicdata.tinyearth.wisc.edu/), then you will explore more on your own:
+    >
+    > 1. Visit the [Tiny Earth Public Database](https://publicdata.tinyearth.wisc.edu/)
+    > 2. Using the menu at the top, navigate to Isolates / AA Screen Isolates. How many results are there total in this table?
+    > 3. In the data table, scroll to the right. Click the filter button for `test_bacteria`
+    > 4. Select *Acinetobacter baylyi*. Are there alternative spellings you want to include too? Click the OK button to apply this filter
+    > 5. In the same way, set the filter to `antibiotic_activity` to Yes and `institution` to Madison College
+    > 6. How many results are their now in this table, now that you have applied these filters?
+    > 7. In the results, find the entry with a `nickname` of "Lake Water 11" and an `isolate_id` of "1001719". Click on the blue "1001719" button to navigate to this isolate's data in the Isolates table
+    > 8. The Isolates table links each isolate to its data in other tables. So, scroll to the right in this table. Click on the blue "1" button under `num_rrna_analysis` to see the rRNA analysis results for this isolate
+    > 9. According to these results, what `genus` was isolate #1001719 "Lake Water 11"?
+    > 10. All recent data on the [Tiny Earth Public Database](https://publicdata.tinyearth.wisc.edu/) came from [Discovery Database](https://discovery.tinyearth.wisc.edu/)! To see this in action, navigate to the [Discovery Database](https://discovery.tinyearth.wisc.edu/) and log in, then click the search icon in the top right and search for "1001719"
+    > 11. Does the isolate you were just looking at on the [Tiny Earth Public Database](https://publicdata.tinyearth.wisc.edu/) appear in your search results? What information can you find about it on the [Discovery Database](https://discovery.tinyearth.wisc.edu/) that you couldn't find on the [Tiny Earth Public Database](https://publicdata.tinyearth.wisc.edu/) alone?
+    >
+    > Finally, repeat these steps on your own, instead searching for data on the [Tiny Earth Public Database](https://publicdata.tinyearth.wisc.edu/) that is interesting to you and searching for that same information on the [Discovery Database](https://discovery.tinyearth.wisc.edu/) to see what else you can discover.
+    >
+    > Some examples:
+    >
+    > - Searching the Samples table for samples with an acidic or basic `sample_ph`
+    > - Searching the AA Screen Isolates table for interesting `media_mod` ideas
+    > - Searching the Gram Stains table for isolates that are gram positive or gram negative
+    > - Searching the rRNA Analyses table for isolates with an interesting `genus`
+
 ## First Entries
 
 All Tiny Earth research flows begin with collecting an environmental sample.

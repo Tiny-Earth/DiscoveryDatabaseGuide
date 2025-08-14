@@ -44,7 +44,7 @@ And instructors will additionally learn:
 - How to incorporate the database into course designs and teaching strategies
 - How to add and manage students to classrooms
 - How to view, edit, and delete student entries
-- And how to finalize student database entries, marking them ready for upload to the Tiny Earth Public Database
+- And how to finalize student database entries, marking them ready for upload to the [Tiny Earth Public Database](https://publicdata.tinyearth.wisc.edu/)
 
 This guide has been designed to be used:
 

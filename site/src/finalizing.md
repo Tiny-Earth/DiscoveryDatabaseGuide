@@ -1,9 +1,16 @@
 # Finalize Student Entries
 
-Once student work in your class or on an entry is complete, and you have reviewed that the work meets your bar for quality research record-keeping, it is time to finalize those student entries.
+Once student work in your class or on an entry is complete, and you have reviewed that the work meets your bar for quality research record-keeping, you may finalize those student entries.
 
 !!! warning "Finalized Entries Cannot be Edited"
     Entries that have been given the blue "Finalized" status tag *cannot* be edited further by students or instructors.
+
+!!! note ""
+    ```yuml
+    [Student enters data] -> [Instructor finalizes] -> [Tiny Earth posts to Public Database]
+    ``` Students enter data into the Discovery Database. Instructors review and finalize that data. And Tiny Earth posts finalized data to the Public Database.
+
+    Students can explore all previously finalized Tiny Earth student data on the [Tiny Earth Public Database](https://publicdata.tinyearth.wisc.edu/)!
 
 To finalize entries:
 
