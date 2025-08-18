@@ -22,6 +22,7 @@ A Streak Plate is used to capture pure colonies of an Isolate that was discovere
 - **Morphology:** Provide details of the characteristics seen on your streak plate. If none of the provided options accurately describe your morphology characteristics, feel free to add your own. 
 - **Pure Culture:** If you select "no" on the toggle, indicating that multiple morphologies were observed, a box will appear prompting you to add a new isolate to the entry. Here, you can either select an existing isolate or create a new one. You will be prompted to also fill in the characteristics of this isolate as well. You can add as many isolates as necessary.
 
-## Suggestions for "Additional Notes"
+## Example Photos
 
-- `TODO`
+!!! note ""
+    ![Example of streak plate using the three-way streaking method](assests/Streak Plate 2.jpg)
