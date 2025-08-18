@@ -25,4 +25,4 @@ A Streak Plate is used to capture pure colonies of an Isolate that was discovere
 ## Example Photos
 
 !!! note ""
-    ![Example of streak plate using the three-way streaking method](assets/Streak Plate 2.jpg)
+    ![Example of streak plate using the three-way streaking method](../assets/Streak Plate 2.jpg)
