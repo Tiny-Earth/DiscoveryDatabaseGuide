@@ -60,6 +60,8 @@ Fourth, if you have another Isolate to record, press the "Add Isolate" button an
 
 ![](../assets/Isolate Selection - Plate.png)
 
-## Suggestions for "Additional Notes"
+!!! note ""
+    ![Example of serial dilution on plates](../assets/(B) Serial Dilution Plate 1.jpg)
 
-- `TODO`
+!!! note ""
+    ![Example of serial dilution in tubes](../assets/(B) Serial Dilution Plate 2.png)
