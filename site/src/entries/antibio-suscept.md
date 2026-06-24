@@ -22,6 +22,5 @@ In some Tiny Earth courses, students will test the susceptibility of their Isola
 - **Incubation Temperature** and **Duration:** The temperature (in Celsius) and the duration (in Hours) that the plate was incubated.
 - **Antibiotic Susceptibilities:** Here, you will be able to list the antibiotics that you are testing. If you are testing an antibiotic that is not listed, talk to your instructor for guidance on how to proceed. You may list multiple tests in one entry. To create another listing, hover over the far right column until you see a "+" sign. When you create a new row, it will appear exactly where you chose to hit the "+" sign. You can rearrange these rows by hovering over the far left column until a move cursor appears. Finally, don't forget to type the concentration and select the bubble indicating the results of each test. 
 
-## Suggestions for "Additional Notes"
-
-- `TODO`
+!!! note ""
+    ![Example of antibiotic susceptibility test](../assets/(J) Antibiotic Susceptibility Test 1.jpg)
