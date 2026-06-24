@@ -24,6 +24,8 @@ A pure microbial culture produces a vast number of metabolites, so another step 
 - **Mass of Crude Extract:** Here you can list the crude mass of your extract. This should be the initial mass of the extract before the drying agents or solvents are applied.
 - **Experimental Design:** Give details describing your experimental procedure.
 
-## Suggestions for "Additional Notes"
+!!! note ""
+    ![Example of tube content](../assets/(L) Chemical Extraction 1.jpg)
 
-- `TODO`
+!!! note ""
+    ![Example of tube content](../assets/(L) Chemical Extraction 2.jpg)
