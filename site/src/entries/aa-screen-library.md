@@ -56,6 +56,5 @@ Fourth, if you have another Isolate to record, press the "Add Isolate" button an
 
 ![](../assets/Isolate Selection - Screen.png)
 
-## Suggestions for "Additional Notes"
-
-- `TODO`
+!!! note ""
+    ![Example of antibiotic activity screen library](../assets/(D) Antibiotic Activity Screen Library 1.jpg)
