@@ -20,6 +20,7 @@ Similar to Isolate Antibiotic Activity Screens, Extract Antibiotic Activity Scre
 - **Incubation Temperature** and **Duration:** The temperature (in Celsius) and the duration (in hours) that the plate was incubated.
 - **Chemical Extract:** This field is not automatically populated for you, so you can search through the dropdown box and select the Chemical Extract that you are working on. If a teammate created the Chemical Extract entry, make sure that they have added you as a co-author so you may refer to it in your entries. Click the "add new" button only if you need to create a new Chemical Extract from scratch to link to this entry.
 
-## Suggestions for "Additional Notes"
+## Example Photos
 
-- `TODO`
+!!! note ""
+    ![Example of antibiotic activity screening on a plate](../assets/(M) Antibiotic Activity Screen Extract 1.png)
