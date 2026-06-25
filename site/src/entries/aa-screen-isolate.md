@@ -20,5 +20,7 @@ Isolate Antibiotic Activity Screens are used to identify which of several tests 
 - **Additives** and **Concentration of Additives:** Additives to the media, such as antifungals, and their concentration (in ug/mL). Confirm with your instructor the additives to your media and their concentration.
 - **Incubation Temperature** and **Duration:** The temperature (in Celsius) and the duration (in hours) that the plate was incubated.
 
+## Example Photos
+
 !!! note ""
     ![Example of antibiotic activity screen isolate](../assets/(G) Antibiotic Activity Screen Isolate 1.png)
