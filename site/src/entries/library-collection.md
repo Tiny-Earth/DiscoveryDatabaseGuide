@@ -55,6 +55,10 @@ Fourth, if you have another Isolate to record, press the "Add Isolate" button an
 
 ![](../assets/Isolate Selection - Plate.png)
 
-## Suggestions for "Additional Notes"
+## Example Photos
 
-- `TODO`
+!!! note ""
+    ![Example of library collection on a plate](../assets/(C) Library Collection 1.jpg)
+
+!!! note ""
+    ![Example of library collection on a plate](../assets/(C) Library Collection 2.jpg)
