@@ -51,12 +51,12 @@ Third, use the **Antibiotic Activity** fields to indicate whether or not the iso
 
 Fourth, if you have another Isolate to record, press the "Add Isolate" button and repeat this process.
 
-## Example Photos
-
 !!! tip "Deleting Extra Rows"
     If you accidentally press the "Add Isolate" button too many times, you can remove unnecessary rows by pressing the small "(-)" button next to the row on the far right edge of the Isolate Selection table.
 
 ![](../assets/Isolate Selection - Screen.png)
 
+## Example Photos
+
 !!! note ""
-    ![Example of antibiotic activity screen library](../assets/(D) Antibiotic Activity Screen Library 1.jpg)
+    ![Example of antibiotic activity screen library](..assets/Antibiotic Activity Screen - Library.jpg)
