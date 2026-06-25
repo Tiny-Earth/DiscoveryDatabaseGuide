@@ -14,5 +14,7 @@ To create an entry of this type, visit [My Entries](https://discovery.tinyearth.
 - **Date:** The date the isolate was first identified.
 - **Sample:** This field is automatically populated for you if you click "Add isolate" under an existing sample. If it is not automatically populated, you can search through the dropdown box and select the sample that you are working on. If a teammate created the Environmental Sample entry, make sure that they have added you as a co-author so you may refer to it in your entries. Click the "add new" button only if you need to create a new Environmental Sample from scratch to link to this entry.
 
+## Example Photos
+
 !!! note ""
     ![Example of isolate on a streak plate](../assets/(E) Isolate 1.jpg)
