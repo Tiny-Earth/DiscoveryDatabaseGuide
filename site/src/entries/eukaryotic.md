@@ -26,4 +26,4 @@ Similar to screening against ESKAPE bacteria, some Tiny Earth students also scre
 - **Eukaryotic inhibition:** Signify whether or not there was eukaryotic inhibition on the plate. This would be represented by zones of inhibition following the test.
 
 !!! note ""
-    ![Example of the eukaryotic test on a plate](../site/src/assets/(K) Eukaryotic Test 1.png)
+    ![Example of the eukaryotic test on a plate](../assets/(K) Eukaryotic Test 1.png)
