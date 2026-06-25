@@ -59,4 +59,4 @@ Fourth, if you have another Isolate to record, press the "Add Isolate" button an
 ## Example Photos
 
 !!! note ""
-    ![Example of antibiotic activity screen library](..assets/Antibiotic Activity Screen - Library.jpg)
+    ![Example of antibiotic activity screen library](../assets/Antibiotic Activity Screen - Library.jpg)
