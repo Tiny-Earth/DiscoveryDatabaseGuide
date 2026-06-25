@@ -29,6 +29,13 @@ FLFLIKHNPTNTIVYFGRYWSP
 ```
 - **Query Cover** and **Length:** You will also be able to gather this information from NCBI Blast. The query cover and length indicate the size of each subject sequence compared to the reference sequence. Query cover is a number that should represent what percent of the DNA reference sequence is being covered by the subject sequence. If you are unsure how to interpret your results, see your instructor for guidance. 
 
-## Suggestions for "Additional Notes"
+## Example Photos
 
-- `TODO`
+!!! note ""
+    ![Example of 16S rRNA Gene Analysis](../assets/(I) 16S rRNA Gene Analysis 1.jpg)
+
+!!! note ""
+    ![Example of 16S rRNA Gene Analysis](../assets/(I) 16S rRNA Gene Analysis 2.png)
+
+!!! note ""
+    ![Example of 16S rRNA Gene Analysis](../assets/(I) 16S rRNA Gene Analysis 3.png)
