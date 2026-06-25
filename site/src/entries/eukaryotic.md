@@ -25,5 +25,7 @@ Similar to screening against ESKAPE bacteria, some Tiny Earth students also scre
 - **Isolate form:** Specify the state of the isolate during the time of the test. 
 - **Eukaryotic inhibition:** Signify whether or not there was eukaryotic inhibition on the plate. This would be represented by zones of inhibition following the test.
 
+## Example Photos
+
 !!! note ""
     ![Example of the eukaryotic test on a plate](../assets/(K) Eukaryotic Test 1.png)
