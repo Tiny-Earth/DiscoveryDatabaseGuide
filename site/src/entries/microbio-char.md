@@ -17,6 +17,7 @@ Many Tiny Earth classes perform additional tests on Isolates before or after scr
 - **Gram Stain Test:** This entry item is a box specifically designed to house information regarding the gram stain test. Here, you can list the test date, protocol, results, cell shape, and cell size. You can add your own custom options for cell shape if you feel that none of the provided options accurately represent what you see on the plate. Be sure provide give details to your protocol description and clarify with your instructor if you have any questions.
 - **Other Tests:** You can add more characterization tests to your entry as they are conducted. First select the test that you are conducting or write in the name of the test if it is not provided. Then you can add the date, protocol, and results. You may add as many characterization tests as you feel are necessary.
 
-## Suggestions for "Additional Notes"
+## Example Photos
 
-- `TODO`
+!!! note ""
+    ![Example of microbiological characterization](../assets/(H) Microbiological Characterization 1.jpg)
